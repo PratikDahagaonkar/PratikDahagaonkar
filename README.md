@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **MEARN & Flutter**
+- 💬 Ask me about **MERN & Flutter**
 
 - 📫 How to reach me **pratikdahagaonkar123@gmail.com**
 
